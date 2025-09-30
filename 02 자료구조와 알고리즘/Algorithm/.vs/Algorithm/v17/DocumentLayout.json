@@ -18,22 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Board.cs",
-              "RelativeDocumentMoniker": "Algorithm\\Board.cs",
-              "ToolTip": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Board.cs",
-              "RelativeToolTip": "Algorithm\\Board.cs",
-              "ViewState": "AQIAAIYAAAAAAAAAAAAYwJkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:10:06.971Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -44,15 +30,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Board.cs",
+              "RelativeDocumentMoniker": "Algorithm\\Board.cs",
+              "ToolTip": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Board.cs",
+              "RelativeToolTip": "Algorithm\\Board.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAUwJoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:18:35.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Program.cs",
               "RelativeDocumentMoniker": "Algorithm\\Program.cs",
               "ToolTip": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Program.cs",
               "RelativeToolTip": "Algorithm\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:29:54.651Z",
+              "WhenOpened": "2025-09-30T06:18:33.913Z",
               "EditorCaption": ""
             }
           ]

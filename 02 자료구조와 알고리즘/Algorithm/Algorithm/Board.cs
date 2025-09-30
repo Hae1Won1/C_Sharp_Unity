@@ -118,19 +118,12 @@ namespace Algorithm
 
         public void Initialize(int size)
         {
+            if (size % 2 == 0)
+                return;
             _tile = new TileType[size, size];
             _size = size;
 
-            for (int y = 0; y < _size; y++)
-            {
-                for (int x = 0; x < _size; x++)
-                {
-                    if (x == 0 || x == _size - 1 || y == 0 || y == size - 1)
-                        _tile[y, x] = TileType.Wall;
-                    else
-                        _tile[y, x] = TileType.Empty;
-                }
-            }
+            GenerateByBinaryTree();
         }
 
         public void Render()
@@ -148,6 +141,55 @@ namespace Algorithm
                 Console.WriteLine();
             }
             Console.ForegroundColor = prevColor;
+        }
+        void GenerateByBinaryTree()
+        {
+            // 일단 길 다 막기
+            for (int y = 0; y < _size; y++)
+            {
+                for (int x = 0; x < _size; x++)
+                {
+                    if (x % 2 == 0 || y % 2 == 0)
+                        _tile[y, x] = TileType.Wall;
+                    else
+                        _tile[y, x] = TileType.Empty;
+                }
+            }
+
+            // 랜덤으로 우측 혹은 아래로 길을 뚫음
+            // Binary Tree Algorithm
+            Random random = new Random();
+            for (int y = 0; y < _size; y++)
+            {
+                for (int x = 0; x < _size; x++)
+                {
+                    if (x % 2 == 0 || y % 2 == 0)
+                        continue;
+                    if (x == _size - 2 && y == _size - 2)
+                    {
+                        continue;
+                    }
+                    if (y == _size - 2)
+                    {
+                        _tile[y, x + 1] = TileType.Empty; // 우측
+                        continue;
+                    }
+                    if (x == _size - 2)
+                    {
+                        _tile[y + 1, x] = TileType.Empty; // 우측
+                        continue;
+                    }
+                    if (random.Next(0, 2) == 0)
+                    {
+                        _tile[y, x + 1] = TileType.Empty; // 우측
+                        continue;
+                    }
+                    else
+                    {
+                        _tile[y + 1, x] = TileType.Empty; // 아래측
+                    }
+                }
+            }
         }
 
         ConsoleColor GetTileColor(TileType type)
