@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC8788-BA9B-4623-BA72-63DA7044E71F}|Algorithm\\Algorithm.csproj|c:\\users\\goono\\c#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\algorithm\\algorithm\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC8788-BA9B-4623-BA72-63DA7044E71F}|Algorithm\\Algorithm.csproj|solutionrelative:algorithm\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC8788-BA9B-4623-BA72-63DA7044E71F}|Algorithm\\Algorithm.csproj|c:\\users\\goono\\c#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\algorithm\\algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC8788-BA9B-4623-BA72-63DA7044E71F}|Algorithm\\Algorithm.csproj|solutionrelative:algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Board.cs",
+              "RelativeDocumentMoniker": "Algorithm\\Board.cs",
+              "ToolTip": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Board.cs",
+              "RelativeToolTip": "Algorithm\\Board.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAYwJkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:10:06.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Program.cs",
+              "RelativeDocumentMoniker": "Algorithm\\Program.cs",
+              "ToolTip": "C:\\Users\\goono\\C#\\02 \uC790\uB8CC\uAD6C\uC870\uC640 \uC54C\uACE0\uB9AC\uC998\\Algorithm\\Algorithm\\Program.cs",
+              "RelativeToolTip": "Algorithm\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:29:54.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

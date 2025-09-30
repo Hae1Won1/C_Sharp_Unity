@@ -1,0 +1,15 @@
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.exe
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.deps.json
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.runtimeconfig.json
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.dll
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.pdb
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfoInputs.cache
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfo.cs
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.sourcelink.json
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.dll
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\refint\Algorithm.dll
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.pdb
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.genruntimeconfig.cache
+C:\Users\goono\C#\02 자료구조와 알고리즘\Algorithm\Algorithm\obj\Debug\net8.0\ref\Algorithm.dll
